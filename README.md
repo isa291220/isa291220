@@ -1,3 +1,4 @@
+![](https://liveunderconstruction.files.wordpress.com/2011/03/animated-gif-showcase-davidope6gif.gif)
 - 👋 oi eu sou isabelly
 - 👀 eu gosto de limpa a casa e volei...
 - 🌱 atulamente estou aprndendo sobre jogos...
@@ -12,4 +13,4 @@
 <!---
 eu naci no dia 29/12/2010... nao gostou de mim, guarda pra voce, por que, pra mim eu sou especial, maravilhosa, entre outras coisas.
 --->
-![image](https://github.com/isa291220/isa291220/assets/169151367/ae029f48-abb3-4536-9fe6-689e0b72c7b9)
+![image]()
